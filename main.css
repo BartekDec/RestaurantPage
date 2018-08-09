@@ -1,0 +1,55 @@
+
+#heading{
+    padding-top: 20px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 550%;
+    color:red;
+    font-weight: 100;
+    border: 4px solid #f4df41;
+    border-radius: 25px;
+    border-bottom: 1;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+}
+.textOnImage{
+
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    color: azure;
+    font-size: 400%;
+}
+#topRow{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#bottomRow{
+
+
+    padding-bottom: 20px;
+
+}
+#myCarousel{
+
+    padding-top: 1px;
+}
+#order{
+    text-align: center;
+    display:grid;
+}
+
+#map{
+    height: 100%;
+    width:100%;
+}
+#endingPage{
+
+    padding-bottom: 20px;
+}
+#all{
+
+}
